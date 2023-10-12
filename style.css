@@ -296,7 +296,7 @@ justify-content: space-evenly;
     border: none;
 }
 .herosection{
-    background-image: linear-gradient(to bottom, transparent, rgba(255, 255, 255, 1)), url("/html/Amazon/images/main\ bg.jpg");
+    background-image: linear-gradient(to bottom, transparent, rgba(255, 255, 255, 1)), url("images/main\ bg.jpg");
     background-size: cover;
     height: 700px;
     width: auto;
@@ -413,7 +413,7 @@ justify-content: space-evenly;
 .box4-2{
     width: 321px;
     height: 250px;
-    background-image: url("/html/Amazon/images/box4bottom.jpg");
+    background-image: url("images/box4bottom.jpg");
     background-size: cover;
     background-color: white;  
     box-shadow: 2px 2px 10px 2px rgb(0, 0, 0,0.3);
@@ -446,55 +446,55 @@ justify-content: space-evenly;
     justify-content: space-around;
 }
 .tpic1{
-    background-image: url("/html/Amazon/images/hbox1.jpg");
+    background-image: url("images/hbox1.jpg");
     background-size: cover;
     height: 200px;
     width: 145px;
 }
 .tpic2{
-    background-image: url("/html/Amazon/images/hbox2.jpg");
+    background-image: url("images/hbox2.jpg");
     background-size: cover;
     height: 200px;
     width: 145px;
 }
 .tpic3{
-    background-image: url("/html/Amazon/images/hbox3.jpg");
+    background-image: url("images/hbox3.jpg");
     background-size: cover;
     height: 200px;
     width: 145px;
 }
 .tpic4{
-    background-image: url("/html/Amazon/images/hbox4.jpg");
+    background-image: url("images/hbox4.jpg");
     background-size: cover;
     height: 200px;
     width: 145px;
 }
 .tpic5{
-    background-image: url("/html/Amazon/images/hbox5.jpg");
+    background-image: url("images/hbox5.jpg");
     background-size: cover;
     height: 200px;
     width: 145px;
 }
 .tpic6{
-    background-image: url("/html/Amazon/images/hbox6.jpg");
+    background-image: url("images/hbox6.jpg");
     background-size: cover;
     height: 200px;
     width: 145px;
 }
 .tpic7{
-    background-image: url("/html/Amazon/images/hbox7.jpg");
+    background-image: url("images/hbox7.jpg");
     background-size: cover;
     height: 200px;
     width: 145px;
 }
 .tpic8{
-    background-image: url("/html/Amazon/images/hbox8.jpg");
+    background-image: url("images/hbox8.jpg");
     background-size: cover;
     height: 200px;
     width: 145px;
 }
 .tpic9{
-    background-image: url("/html/Amazon/images/hbox9.jpg");
+    background-image: url("images/hbox9.jpg");
     background-size: cover;
     height: 200px;
     width: 145px;
@@ -554,7 +554,7 @@ li{
     width: 90px;
     height: 50px;
     background-color: #222f3d;
-    background-image: url("/html/Amazon/images/Amazon-Emblem.jpg");
+    background-image: url("images/Amazon-Emblem.jpg");
     background-size: cover;
     background-blend-mode:lighten;
 }
