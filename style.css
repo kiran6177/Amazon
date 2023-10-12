@@ -291,7 +291,7 @@ justify-content: space-evenly;
 .gidimg{
     width: 100%;
     height: 100%;
-    background-image: url("/html/Amazon/images/nav\ great\ indian\ link.jpg");
+    background-image: url("images/nav\ great\ indian\ link.jpg");
     background-size: cover;
     border: none;
 }
