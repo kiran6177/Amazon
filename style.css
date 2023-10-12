@@ -31,7 +31,7 @@ justify-content: space-evenly;
     border: none;
 }
 .logo{
-    background-image: url("/html/Amazon/images/Amazon-Emblem.jpg");
+    background-image: url("/images/Amazon-Emblem.jpg");
     background-size: cover;
     width: 100%;
     height: 100%;
